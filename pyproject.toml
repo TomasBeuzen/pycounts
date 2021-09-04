@@ -17,6 +17,10 @@ jupyter = "^1.0.0"
 myst-nb = "^0.13.0"
 sphinx-autoapi = "^1.8.4"
 sphinx-rtd-theme = "^0.5.2"
+python-semantic-release = "^7.19.1"
+
+[tool.semantic_release]
+version_variable = "pyproject.toml:version"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
