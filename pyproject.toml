@@ -13,6 +13,10 @@ matplotlib = "^3.4.3"
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.5"
 pytest-cov = "^2.12.1"
+jupyter = "^1.0.0"
+myst-nb = "^0.13.0"
+sphinx-autoapi = "^1.8.4"
+sphinx-rtd-theme = "^0.5.2"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
