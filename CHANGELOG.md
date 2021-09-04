@@ -5,7 +5,6 @@
 ## v0.3.0 (2021-09-04)
 ### Feature
 * Add CI/CD workflow ([`0949c94`](https://github.com/TomasBeuzen/pycounts/commit/0949c94ea72f485434dae0878d474c899d064102))
-* Add CI/CD workflow ([`fcb7b94`](https://github.com/TomasBeuzen/pycounts/commit/fcb7b94691b630b9ada876909fac942bea216ad3))
 
 ## v0.2.0 (10/09/2021)
 
