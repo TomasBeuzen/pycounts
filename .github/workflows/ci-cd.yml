@@ -21,8 +21,6 @@ jobs:
     - uses: actions/checkout@v2
     # Step 4. Install poetry
     - uses: snok/install-poetry@v1
-      with:
-        version: 1.2.0a2
     # Step 5. Install our pycounts package
     - name: Install package
       run: poetry install
